@@ -6,18 +6,15 @@ fls-eu.amazon.com
 fls-na.amazon.com
 mads-eu.amazon.com
 mas-sdk.amazon.com
-
-# required for apps to be installed
-#mas-ext.amazon.com
-
-aax-eu.amazon-adsystem.com
-
-#msh.amazon.co.uk
-
-# required for app installation / updates
-# amazonadsi-a.akamaihd.net
-
 mobileanalytics.us-east-1.amazonaws.com
+
+# required for appstore / installations
+#mas-ext.amazon.com
+#msh.amazon.co.uk
+#amazonadsi-a.akamaihd.net
+
+# home screen ads
+aax-eu.amazon-adsystem.com
 
 # alexa
 cortana-gateway.amazon.com
@@ -92,9 +89,6 @@ notify.firetv.bugsnag.appstore.a2z.com
 com-amazon-device-remote-config-sync-service.triggers-v1.prod.mobile.weblab.a2z.com
 global.telemetry.insights.video.a2z.com
 notify.aca.ftv.bugsnag.appstore.a2z.com
-
-# amazon.co.uk
-msh.amazon.co.uk
 
 # amazon.com
 aca-livecards-service-eu.amazon.com
