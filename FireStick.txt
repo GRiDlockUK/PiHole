@@ -83,9 +83,9 @@ notify.firetv.bugsnag.appstore.a2z.com
 # appsflyersdk.com
 # amazonvideo.com
 # cloudfront.net
+(\.|^)cloudfront\.net$
 # a2z.com
 # nflxso.net
-
 
 # a2z.com
 22200e12b21164dc4405ac237dfe6088389cffca26f25ffcc05e24eac9a03a4.us-east-1.prod.service.minerva.devices.a2z.com
