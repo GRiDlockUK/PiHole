@@ -20,6 +20,7 @@ aax-eu.amazon-adsystem.com
 cortana-gateway.amazon.com
 api.amazonalexa.com
 avs.eu.amazonalexa.com
+avs-alexa-18-eu.amazon.com
 d3p8zr0ffa9t17.cloudfront.net
 
 # updates
@@ -80,7 +81,6 @@ notify.firetv.bugsnag.appstore.a2z.com
 # appsflyersdk.com
 # amazonvideo.com
 # cloudfront.net
-||cloudfront.net^
 # a2z.com
 # nflxso.net
 
