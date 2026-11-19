@@ -20,20 +20,20 @@ aax-eu.amazon-adsystem.com
 mobileanalytics.us-east-1.amazonaws.com
 
 # alexa
-#cortana-gateway.amazon.com
-#api.amazonalexa.com
-#avs.eu.amazonalexa.com
+cortana-gateway.amazon.com
+api.amazonalexa.com
+avs.eu.amazonalexa.com
 d3p8zr0ffa9t17.cloudfront.net
 
 # updates
-#softwareupdates.amazon.com
-#d3h5bk8iotgjvw.cloudfront.net
-#d63r8xi1zu867.cloudfront.net
-#d1s31zyz7dcc2d.cloudfront.net
-#d3a510xmpll7o6.cloudfront.net
-#d21m0ezw6fosyw.cloudfront.net
-#d3uf8d0lloeluq.cloudfront.net
-#d2n99fpfeqbnhk.cloudfront.net
+softwareupdates.amazon.com
+d3h5bk8iotgjvw.cloudfront.net
+d63r8xi1zu867.cloudfront.net
+d1s31zyz7dcc2d.cloudfront.net
+d3a510xmpll7o6.cloudfront.net
+d21m0ezw6fosyw.cloudfront.net
+d3uf8d0lloeluq.cloudfront.net
+d2n99fpfeqbnhk.cloudfront.net
 
 # ntp / time
 #ftv-smp.ntp-fireos.com
@@ -53,11 +53,11 @@ d3p8zr0ffa9t17.cloudfront.net
 #ftvr-na.amazon.com
 #dcape-na.amazon.com
 #dp-gw-na.amazon.com
-#unagi-eu.amazon.com
+unagi-eu.amazon.com
 #layla.amazon.com
-#todo-ta-g7g.amazon.com
+todo-ta-g7g.amazon.com
 #spectrum.s3.amazonaws.com
-#arcus-uswest.amazon.com
+arcus-uswest.amazon.com
 #pinpoint.us-east-1.amazonaws.com
 #aviary.amazon.de
 #digprjsurvey.amazon.eu
@@ -71,38 +71,8 @@ tracksrv.zdf.de
 settings.crashlytics.com
 notify.firetv.bugsnag.appstore.a2z.com
 
-# suggested sites to block
-22200e12b21164dc4405ac237dfe6088389cffca26f25ffcc05e24eac9a03a4.us-east-1.prod.service.minerva.devices.a2z.com
-ab8mt4dd97et.api.amazonvideo.com
-ab8mt4dd97et.zaz.api.amazonvideo.com
-aca-livecards-service-eu.amazon.com
-andr-30-aftma08c15-0.api.amazonvideo.com
-andr-30-aftma08c15-732187410.api.amazonvideo.com
-api.amazon.com
-arcus-uswest.amazon.com
-com-amazon-device-remote-config-sync-service.triggers-v1.prod.mobile.weblab.a2z.com
-d184dfn36gombl.cloudfront.net
-dp-gw-na.amazon.com
-dss-na.amazon.com
-firebaseinstallations.googleapis.com
-firereleasenotes-eu.amazon.com
-firetvcaptiveportal.com
-#ftv-smp.ntp-fireos.com
-ftvr-eu.amazon.com
-global.telemetry.insights.video.a2z.com
-images-eu.ssl-images-amazon.com
-ipv6.unagi-na.amazon.com
-ktpx-eu-south-2.amazon.com
-m.media-amazon.com
-msh.amazon.co.uk
-notify.aca.ftv.bugsnag.appstore.a2z.com
-occ-0-1432-1433.1.nflxso.net
-pact-proxy.amazon.eu
-prime.amazon.eu
-qgmg.api.amazonvideo.com
-todo-ta-g7g.amazon.com
-tw4msf.cdn-settings.appsflyersdk.com
-unagi-eu.amazon.com
+
+# =========================== 
 
 # suggested domains to block
 # amazon.com
@@ -114,5 +84,53 @@ unagi-eu.amazon.com
 # cloudfront.net
 # a2z.com
 # nflxso.net
+
+
+# a2z.com
+22200e12b21164dc4405ac237dfe6088389cffca26f25ffcc05e24eac9a03a4.us-east-1.prod.service.minerva.devices.a2z.com
+com-amazon-device-remote-config-sync-service.triggers-v1.prod.mobile.weblab.a2z.com
+global.telemetry.insights.video.a2z.com
+notify.aca.ftv.bugsnag.appstore.a2z.com
+
+# amazon.co.uk
+msh.amazon.co.uk
+
+# amazon.com
+aca-livecards-service-eu.amazon.com
+api.amazon.com
+dp-gw-na.amazon.com
+dss-na.amazon.com
+firereleasenotes-eu.amazon.com
+ftvr-eu.amazon.com
+ipv6.unagi-na.amazon.com
+ktpx-eu-south-2.amazon.com
+
+# amazon.eu
+pact-proxy.amazon.eu
+prime.amazon.eu
+
+# amazonvideo.com
+ab8mt4dd97et.api.amazonvideo.com
+ab8mt4dd97et.zaz.api.amazonvideo.com
+andr-30-aftma08c15-0.api.amazonvideo.com
+andr-30-aftma08c15-732187410.api.amazonvideo.com
+qgmg.api.amazonvideo.com
+
+# appsflyersdk.com
+tw4msf.cdn-settings.appsflyersdk.com
+
+# cloudfront.net
+d184dfn36gombl.cloudfront.net
+
+# nflxso.net
+occ-0-1432-1433.1.nflxso.net
+
+# exact
+#fireoscaptiveportal.com
+#firetvcaptiveportal.com
+firebaseinstallations.googleapis.com
+images-eu.ssl-images-amazon.com
+m.media-amazon.com
+
 
 
