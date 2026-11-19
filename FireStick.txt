@@ -71,7 +71,7 @@ tracksrv.zdf.de
 settings.crashlytics.com
 notify.firetv.bugsnag.appstore.a2z.com
 
-# testing
+# suggested sites to block
 22200e12b21164dc4405ac237dfe6088389cffca26f25ffcc05e24eac9a03a4.us-east-1.prod.service.minerva.devices.a2z.com
 ab8mt4dd97et.api.amazonvideo.com
 ab8mt4dd97et.zaz.api.amazonvideo.com
@@ -87,7 +87,7 @@ dss-na.amazon.com
 firebaseinstallations.googleapis.com
 firereleasenotes-eu.amazon.com
 firetvcaptiveportal.com
-ftv-smp.ntp-fireos.com
+#ftv-smp.ntp-fireos.com
 ftvr-eu.amazon.com
 global.telemetry.insights.video.a2z.com
 images-eu.ssl-images-amazon.com
@@ -104,5 +104,15 @@ todo-ta-g7g.amazon.com
 tw4msf.cdn-settings.appsflyersdk.com
 unagi-eu.amazon.com
 
+# suggested domains to block
+# amazon.com
+# amazon.co.uk
+# amazon.eu
+# googleapis.com
+# appsflyersdk.com
+# amazonvideo.com
+# cloudfront.net
+# a2z.com
+# nflxso.net
 
 
