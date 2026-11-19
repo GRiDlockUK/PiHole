@@ -83,7 +83,7 @@ notify.firetv.bugsnag.appstore.a2z.com
 # appsflyersdk.com
 # amazonvideo.com
 # cloudfront.net
-(\.|^)cloudfront\.net$
+||cloudfront.net^
 # a2z.com
 # nflxso.net
 
