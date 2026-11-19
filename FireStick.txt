@@ -40,27 +40,28 @@ d2n99fpfeqbnhk.cloudfront.net
 #2.android.pool.ntp.org
 
 # API connections (unknown usage)
-#api.amazon.com
-#n4h9utzk4f.execute-api.us-east-1.amazonaws.com
+api.amazon.com
+n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 
 # others (unknown usage)
-#ktpx-eu.amazon.com
-#dp-rsm-prod.amazon.com
-#firetvdeviceprofilemanagementservice-na.amazon.com
-#prime.amazon.eu
-#dp-discovery-na-ext.amazon.com
-#frank-comp-na.amazon.com
-#ftvr-na.amazon.com
-#dcape-na.amazon.com
-#dp-gw-na.amazon.com
-unagi-eu.amazon.com
-#layla.amazon.com
-todo-ta-g7g.amazon.com
-#spectrum.s3.amazonaws.com
 arcus-uswest.amazon.com
-#pinpoint.us-east-1.amazonaws.com
-#aviary.amazon.de
-#digprjsurvey.amazon.eu
+aviary.amazon.de
+dcape-na.amazon.com
+digprjsurvey.amazon.eu
+dp-discovery-na-ext.amazon.com
+dp-gw-na.amazon.com
+dp-rsm-prod.amazon.com
+firetvdeviceprofilemanagementservice-na.amazon.com
+frank-comp-na.amazon.com
+ftvr-na.amazon.com
+ktpx-eu.amazon.com
+layla.amazon.com
+pinpoint.us-east-1.amazonaws.com
+prime.amazon.eu
+spectrum.s3.amazonaws.com
+todo-ta-g7g.amazon.com
+unagi-eu.amazon.com
+
 
 # third party
 config.ioam.de
@@ -97,7 +98,7 @@ msh.amazon.co.uk
 
 # amazon.com
 aca-livecards-service-eu.amazon.com
-api.amazon.com
+dcape-na.amazon.com
 dp-gw-na.amazon.com
 dss-na.amazon.com
 firereleasenotes-eu.amazon.com
@@ -112,9 +113,13 @@ prime.amazon.eu
 # amazonvideo.com
 ab8mt4dd97et.api.amazonvideo.com
 ab8mt4dd97et.zaz.api.amazonvideo.com
+ab8mt4dd97et.qgmg.api.amazonvideo.com
 andr-30-aftma08c15-0.api.amazonvideo.com
 andr-30-aftma08c15-732187410.api.amazonvideo.com
 qgmg.api.amazonvideo.com
+
+# amazonaws.com
+cognito-identity.eu-west-1.amazonaws.com
 
 # appsflyersdk.com
 tw4msf.cdn-settings.appsflyersdk.com
